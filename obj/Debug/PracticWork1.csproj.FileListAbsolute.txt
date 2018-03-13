@@ -1,1 +1,9 @@
 G:\institute\gitHub\PracticWork1\PracticWork1\bin\Debug\PracticWork1.exe.config
+G:\institute\gitHub\PracticWork1\PracticWork1\bin\Debug\PracticWork1.exe
+G:\institute\gitHub\PracticWork1\PracticWork1\bin\Debug\PracticWork1.pdb
+G:\institute\gitHub\PracticWork1\PracticWork1\obj\Debug\PracticWork1.csprojResolveAssemblyReference.cache
+G:\institute\gitHub\PracticWork1\PracticWork1\obj\Debug\PracticWork1.Form1.resources
+G:\institute\gitHub\PracticWork1\PracticWork1\obj\Debug\PracticWork1.Properties.Resources.resources
+G:\institute\gitHub\PracticWork1\PracticWork1\obj\Debug\PracticWork1.csproj.GenerateResource.Cache
+G:\institute\gitHub\PracticWork1\PracticWork1\obj\Debug\PracticWork1.exe
+G:\institute\gitHub\PracticWork1\PracticWork1\obj\Debug\PracticWork1.pdb
